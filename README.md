@@ -69,7 +69,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EmilioRCPantoja&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=en" 
   />
@@ -79,7 +79,7 @@
 <img 
     align="left"
     alt ="GitHub Stats"
-    height = "170"
+    height = "140"
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com/?user=EmilioRCPantoja&theme=chartreuse-dark" />
 </p>
