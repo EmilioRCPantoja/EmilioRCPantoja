@@ -79,7 +79,7 @@
 <img 
     align="left"
     alt ="GitHub Stats"
-    height = "200"
+    height = "170"
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com/?user=EmilioRCPantoja&theme=chartreuse-dark" />
 </p>
