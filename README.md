@@ -70,7 +70,7 @@
     alt="GitHub Stats" 
     height="145" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EmilioRCPantoja&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=EmilioRCPantoja&show_icons=true&theme=chartreuse-dark&include_all_commits=true" 
   />
 
 
@@ -80,7 +80,7 @@
     alt ="GitHub Stats"
     height = "165"
     style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com/?user=EmilioRCPantoja&theme=chartreuse-dark" />
+    src="https://streak-stats.demolab.com/?user=EmilioRCPantoja&theme=chartreuse-dark&include_all_commits=true" />
 </p>
 <img 
       align="left" 
