@@ -78,14 +78,14 @@
 <img 
     align="left"
     alt ="GitHub Stats"
-    height = "135"
+    height = "165"
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com/?user=EmilioRCPantoja&theme=chartreuse-dark" />
 </p>
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="145" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioRCPantoja&theme=chartreuse-dark&layout=compact&custom_title=Languages&langs_count=10" 
   />
