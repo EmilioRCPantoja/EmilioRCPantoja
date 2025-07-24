@@ -41,7 +41,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
 />
 
-
 <img 
     align="left" 
     alt="C++" 
@@ -69,7 +68,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EmilioRCPantoja&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=en" 
   />
