@@ -68,7 +68,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="145" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EmilioRCPantoja&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=en" 
   />
