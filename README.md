@@ -80,7 +80,7 @@
     alt ="GitHub Stats"
     height = "165"
     style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com/?user=EmilioRCPantoja&theme=chartreuse-dark&include_all_commits=true" />
+    src="https://streak-stats.demolab.com/?user=EmilioRCPantoa&theme=chartreuse-dark&include_all_commits=true" />
 </p>
 <img 
       align="left" 
