@@ -64,28 +64,24 @@
 
 ### 📊 Statistcs
 
-<p>
+<div align="left">
+ 
   <img 
-    align="left" 
+    height="166" 
     alt="GitHub Stats" 
-    height="145" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EmilioRCPantoja&show_icons=true&theme=chartreuse-dark" 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/EmilioRCPantoja?&theme=chartreuse-dark&fontFamily=Helvetica&preferLogin=true&Background=000&Ring=7FFF00&Title=7FFF00&Border=00AEFF" 
+  />
+  <img 
+    height="170" 
+    alt="Top Langs" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EmilioRCPantoja&theme=chartreuse-dark&title_color=7FFF00&layout=compact&border_color=00AEFF&hide=HTML" 
   />
 
+  <br> 
 
-
-<img 
-    align="left"
-    alt ="GitHub Stats"
-    height = "165"
-    style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com/?user=EmilioRCPantoja&theme=chartreuse-dark&include_all_commits=true" />
-</p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="145" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioRCPantoja&theme=chartreuse-dark&layout=compact&custom_title=Languages&langs_count=10" 
+  <img 
+    width="500" 
+    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com/?user=EmilioRCPantoja&theme=chartreuse-dark&include_all_commits=true&border=00AEFF" 
   />
+</div>
