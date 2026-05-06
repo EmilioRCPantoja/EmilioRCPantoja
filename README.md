@@ -70,7 +70,7 @@
     alt="GitHub Stats" 
     height="145" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EmilioRCPantoja&show_icons=true&theme=chartreuse-dark" 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/EmilioRCPantoja?cardType=github&theme=nord&fontFamily=Helvetica&preferLogin=false&Background=DD272700&Ring=E8D8C1&Title=E8D8C1&Border=E8D8C1" 
   />
 
 
